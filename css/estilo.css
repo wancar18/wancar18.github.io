@@ -110,7 +110,6 @@ conteudo
 
 #secundario{
     width: 270px;
-    background: wheat;
     float: left;
     margin: 0 0 20px 15px;
 }
@@ -206,6 +205,18 @@ label{
     color: #69001d;
 }
 
+#secundario .conteudo a{
+    color: #69001d;
+}
+
+.textoMenor{
+    font-size: 0.8em;
+}
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid gray;
+    margin: 0.4em 0; padding: 0; 
+}
 
 /*alterado novo*/
 
